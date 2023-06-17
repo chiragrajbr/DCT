@@ -1,0 +1,23 @@
+.class{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: aquamarine;
+}
+#id{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: rgb(95, 26, 185);
+}
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: burlywood;
+    font-size: 30px;
+}
+h1{
+    color: chartreuse;
+    font-size: larger;
+}
+h3:hover{
+    color: red;
+    font-size: 50px;
+}

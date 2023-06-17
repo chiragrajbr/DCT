@@ -1,0 +1,28 @@
+.a{
+    position: relative;
+    
+    background-color: aquamarine;
+    
+}
+.b{
+    position: absolute;
+    background-color: red;
+    left: 30px;
+   
+}
+body{
+    background-color: blue;
+}
+
+.c{
+    position: fixed;
+    top:40rem;
+}
+
+.d{
+    left: 50px;
+    top: 120px;
+    position: sticky;
+    color: aqua;
+    
+}

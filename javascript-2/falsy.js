@@ -1,0 +1,6 @@
+console.log(0,Boolean(0))
+console.log(NaN,Boolean(NaN))
+console.log(undefined,Boolean(undefined))
+console.log(null,Boolean(null))
+console.log(false,Boolean(false))
+console.log("",Boolean(""))

@@ -1,0 +1,5 @@
+console.log(1,Boolean(1))
+console.log("dct",Boolean("dct"))
+console.log([],Boolean([]))
+console.log({},Boolean({}))
+console.log(true,Boolean(true))
